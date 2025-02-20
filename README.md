@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bmakright
-- 👀 I’m interested in ...Data Science, Java Development, 
-- 🌱 I’m currently learning ...Github, Java, Python, C++, video game developement, HTML, JavaScript, CSS, and JavaFX. SQL, Tablue Database design, linux, etc... anything
-- computer science!
+- 👀 I’m interested in ...Data Science, Machine Learning, Deep Learning, open AI, 
+- 🌱 I’m currently learning ...Github, Java, Python, SQL, Tablue Database design, linux, etc... anything
+- Machine Learning and Statistics!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...akrightbm@vcu.edu
+- 📫 How to reach me ...akrightbm@gmail.edu
 
 <!---
 bmakright/bmakright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
